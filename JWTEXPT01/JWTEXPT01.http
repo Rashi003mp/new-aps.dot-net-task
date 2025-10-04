@@ -1,0 +1,6 @@
+@JWTEXPT01_HostAddress = http://localhost:5234
+
+GET {{JWTEXPT01_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

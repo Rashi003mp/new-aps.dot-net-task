@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP.net core\\DI\\JWTEXPT01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|d:\\asp.net core\\di\\jwtexpt01\\jwtexpt01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|solutionrelative:jwtexpt01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|d:\\asp.net core\\di\\jwtexpt01\\jwtexpt01\\jwtexpt01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|solutionrelative:jwtexpt01\\jwtexpt01.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|d:\\asp.net core\\di\\jwtexpt01\\jwtexpt01\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|solutionrelative:jwtexpt01\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|d:\\asp.net core\\di\\jwtexpt01\\jwtexpt01\\controller\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|solutionrelative:jwtexpt01\\controller\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|d:\\asp.net core\\di\\jwtexpt01\\jwtexpt01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|solutionrelative:jwtexpt01\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|d:\\asp.net core\\di\\jwtexpt01\\jwtexpt01\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|solutionrelative:jwtexpt01\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|d:\\asp.net core\\di\\jwtexpt01\\jwtexpt01\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|solutionrelative:jwtexpt01\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|d:\\asp.net core\\di\\jwtexpt01\\jwtexpt01\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|solutionrelative:jwtexpt01\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|d:\\asp.net core\\di\\jwtexpt01\\jwtexpt01\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF08AAE5-7486-4865-B581-556BABA01B20}|JWTEXPT01\\JWTEXPT01.csproj|solutionrelative:jwtexpt01\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JWTEXPT01",
+              "DocumentMoniker": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\JWTEXPT01.csproj",
+              "RelativeDocumentMoniker": "JWTEXPT01\\JWTEXPT01.csproj",
+              "ToolTip": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\JWTEXPT01.csproj",
+              "RelativeToolTip": "JWTEXPT01\\JWTEXPT01.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-03T13:07:44.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\Program.cs",
+              "RelativeDocumentMoniker": "JWTEXPT01\\Program.cs",
+              "ToolTip": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\Program.cs",
+              "RelativeToolTip": "JWTEXPT01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:04:49.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "JWTEXPT01\\Controller\\AuthController.cs",
+              "ToolTip": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\Controller\\AuthController.cs",
+              "RelativeToolTip": "JWTEXPT01\\Controller\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:03:43.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\Controller\\TasksController.cs",
+              "RelativeDocumentMoniker": "JWTEXPT01\\Controller\\TasksController.cs",
+              "ToolTip": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\Controller\\TasksController.cs",
+              "RelativeToolTip": "JWTEXPT01\\Controller\\TasksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:03:56.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTEXPT01\\appsettings.json",
+              "ToolTip": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\appsettings.json",
+              "RelativeToolTip": "JWTEXPT01\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-03T13:04:41.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "JWTEXPT01\\Models\\TaskItem.cs",
+              "ToolTip": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\Models\\TaskItem.cs",
+              "RelativeToolTip": "JWTEXPT01\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:01:18.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "JWTEXPT01\\Services\\IUserService.cs",
+              "ToolTip": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\Services\\IUserService.cs",
+              "RelativeToolTip": "JWTEXPT01\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:02:41.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "JWTEXPT01\\Services\\UserService.cs",
+              "ToolTip": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\Services\\UserService.cs",
+              "RelativeToolTip": "JWTEXPT01\\Services\\UserService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:02:59.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\Models\\User.cs",
+              "RelativeDocumentMoniker": "JWTEXPT01\\Models\\User.cs",
+              "ToolTip": "D:\\ASP.net core\\DI\\JWTEXPT01\\JWTEXPT01\\Models\\User.cs",
+              "RelativeToolTip": "JWTEXPT01\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T13:00:57.966Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
